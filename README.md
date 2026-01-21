@@ -1,7 +1,5 @@
-# sentiment-analysis-jss
-Sentiment analysis of Jogja Smart Service (JSS) user reviews from Google Play Store using a Random Forest model. Reviews were classified into positive, neutral, and negative sentiments, achieving 80% accuracy and revealing improved user satisfaction trends in recent years.
-
 ## Sentiment Analysis of Jogja Smart Service (JSS) User Reviews
+This project analyzes user sentiment toward the Jogja Smart Service (JSS) application, a digital public service platform developed by the Yogyakarta City Government, using Google Play Store reviews. A Random Forest classification model was applied to categorize reviews into positive, neutral, and negative sentiments, achieving an accuracy of 80%. Analysis of reviews from 2021–2023 revealed that negative sentiment initially dominated, while evaluation on newer data from 2023–2024 showed a significant increase in positive sentiment, indicating improved user satisfaction. The results provide actionable insights to support service quality evaluation and continuous improvement of digital public services.
 
 ## Project Overview
 This project analyzes user sentiment toward the Jogja Smart Service (JSS) application, a digital public service platform developed by the Yogyakarta City Government. The analysis uses Google Play Store reviews to evaluate user satisfaction and identify improvement opportunities through sentiment classification.
@@ -18,7 +16,7 @@ This project analyzes user sentiment toward the Jogja Smart Service (JSS) applic
   - Main dataset: 2021–2023  
   - New evaluation dataset: 2023–2024  
 - **Data Type:** Text-based user reviews  
-- **Storage:** Google Spreadsheet (linked)  
+- **Storage:** Microsoft Excel  
 
 ## Methodology
 1. Data collection from Google Play Store reviews  
